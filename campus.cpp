@@ -5,7 +5,7 @@
 #include <cstdlib>
 #include <cstring>
 #include<errno.h>
-#include<GL\glut.h>
+#include<GL/glut.h>
 
 float y = 1, x = -30, z = 100; // initially 5 units south of origin
 float deltaMove = 0.0; // initially camera doesn't move
