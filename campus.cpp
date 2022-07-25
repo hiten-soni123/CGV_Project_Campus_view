@@ -5,8 +5,6 @@
 #include <cstdlib>
 #include <cstring>
 #include<errno.h>
-#include<GL\GL.h>
-#include<GL\GLU.h>
 #include<GL\glut.h>
 
 float y = 1, x = -30, z = 100; // initially 5 units south of origin
